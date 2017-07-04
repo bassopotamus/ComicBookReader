@@ -1,0 +1,9 @@
+C:\Projects\ComicBookReader\ComicBookReader\bin\Debug\ComicBookReader.exe.config
+C:\Projects\ComicBookReader\ComicBookReader\bin\Debug\ComicBookReader.exe
+C:\Projects\ComicBookReader\ComicBookReader\bin\Debug\ComicBookReader.pdb
+C:\Projects\ComicBookReader\ComicBookReader\obj\Debug\ComicBookReader.csprojResolveAssemblyReference.cache
+C:\Projects\ComicBookReader\ComicBookReader\obj\Debug\ComicBookReader.Properties.Resources.resources
+C:\Projects\ComicBookReader\ComicBookReader\obj\Debug\ComicBookReader.csproj.GenerateResource.Cache
+C:\Projects\ComicBookReader\ComicBookReader\obj\Debug\ComicBookReader.exe
+C:\Projects\ComicBookReader\ComicBookReader\obj\Debug\ComicBookReader.pdb
+C:\Projects\ComicBookReader\ComicBookReader\obj\Debug\ComicBookReader.ContentReader.resources
