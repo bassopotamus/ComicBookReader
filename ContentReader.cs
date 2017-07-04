@@ -106,11 +106,11 @@ namespace ComicBookReader
                 view = comicToRead[pageNumber];
                 pictureBox1.Width = GetScreen().Width;
                 panel1.Width = GetScreen().Width;
-                if (pictureBox1.Width > view.Width)
+                if (pictureBox1.Width < view.Width)
                 {
                     scaleBitmap = (System.Convert.ToDouble(view.Width)) / (System.Convert.ToDouble(pictureBox1.Width));
                 }
-                else if (view.Width > pictureBox1.Width)
+                else if (pictureBox1.Width > view.Width)
                 {
                     scaleBitmap = (System.Convert.ToDouble(pictureBox1.Width)) / (System.Convert.ToDouble(view.Width));
                 }
