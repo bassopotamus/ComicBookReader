@@ -11,7 +11,7 @@ using System.Windows.Forms;
 namespace ComicBookReader
 {
 
-
+    /*Adding this note so I can upload to Github.*/
     public partial class ContentReader : Form
     {
         private Bitmap view;
